@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* Navbar for page image, audio and video */
+body {
+    background-color: black;
+}
+
+.navbar {
+    margin-top: 3rem;
+}
+
+.flex__for__header {
+    display: flex;
+}
+
+.margin__for__header {
+    list-style-type: none;
+    font-size: 30px;
+    margin-left: 14%;
+}
+
+.link__for__header {
+    text-decoration: none;
+    color: white;
+}
+
+.link__for__header:hover {
+    color: blue;
+}
+
+/* CSS code for the page image */
+.div__for__images {
+    margin-top: 3rem;
+    margin-left: 68px;
+}
+
+.text__for__img {
+    color: white;
+    text-align: center;
+}
+
+.margin__for__image {
+    width: 400px;
+    height: 400px;
+}
+
+/* CSS code for the page audio */
+
+.div__for__audios {
+    margin-top: 3rem;
+    margin-left: 68px;
+}
+
+.text__for__audios {
+    color: white;
+        text-align: center;
+}
+
+.margin__for__audio {
+    margin-left: 6.3%;
+    margin-bottom: 50px;
+}
+
+/* CSS code for the page video */
+
+.div__for__videos {
+    margin-top: 3rem;
+    margin-left: 68px;
+}
+
+.text__for__videos {
+    color: white;
+    text-align: center;
+}
+
+.block__for__margin {
+    margin-bottom: 50px;
+}
+
+.margin__for__video {
+width: 400px;
+}

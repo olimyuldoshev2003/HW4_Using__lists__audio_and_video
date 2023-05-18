@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.navbar {
+    margin-top: 3rem;
+}
+
+.flex__for__header {
+    display: flex;
+}
+
+.margin__for__header {
+    list-style-type: none;
+    font-size: 30px;
+    margin-left: 14%;
+}
+
+.link__for__header {
+    text-decoration: none;
+    color: white;
+}
+
+.link__for__header:hover {
+    color: blue;
+}
+
+.controling__image {
+    width: 400px;
+    height: 400px;
+}
+
+.block__for__images, .block__for__audios {
+    margin-top: 3rem;
+    margin-left: 68px;
+}
+
+.text__images, .text__audios, .text__videos{
+    color: white;
+    text-align: center;
+}
+
+.text__videos {
+    margin-left: 70px;
+}
+
+.margin__audios {
+    margin-left: 6.3%;
+}
+
+.margin__videos {
+    width: 400px;
+    margin-left: 2.3%;
+}
